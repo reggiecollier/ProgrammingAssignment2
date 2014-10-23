@@ -1,15 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## This is a short comment describing the function
 
 makeCacheMatrix <- function(x = matrix()) {
+  x <- numeric()
 
 }
 
 
-## Write a short comment describing this function
+## This short comment describes the other function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
+
